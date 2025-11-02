@@ -1,0 +1,6 @@
+base_config_url: "https://gist.githubusercontent.com/liuran001/5ca84f7def53c70b554d3f765ff86a33/raw/"
+subscriptions:
+  - name: "订阅一"
+    url: "https://example.com/airport?type=clashmeta&protocol=shadowsocks&rule=default"
+  - name: "订阅二"
+    url: "https://example.com/api/v1/client/subscribe?token=ilovechina"

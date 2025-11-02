@@ -1,0 +1,19 @@
+# VCS
+.git
+.gitignore
+
+# CI/build artifacts
+bin/
+build/
+dist/
+
+# OS/editor
+.DS_Store
+*.swp
+*.log
+
+# Docker
+Dockerfile
+
+# config
+config.yaml
